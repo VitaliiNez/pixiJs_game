@@ -13,7 +13,7 @@ In the Circle Game, players are challenged to find and tap on circles as quickly
 To run the app project locally, follow these steps:
 
 1. **Clone the Repository:**
-   `git clone [https://github.com/VitaliiNez/next_news.git](https://github.com/VitaliiNez/pixiJs_game.git)`
+   `git clone https://github.com/VitaliiNez/pixiJs_game.git`
 2. **Open the index.html File:**
   - Locate the index.html file in the project directory.
   - Open it in your preferred web browser.
@@ -22,4 +22,4 @@ To run the app project locally, follow these steps:
 
 Enjoy the game!
 
-To access the live site, visit [DEMO]([https://fullstack-auth-app-gold.vercel.app](https://vitaliinez.github.io/pixiJs_game/)).
+To access the live site, visit [DEMO](https://vitaliinez.github.io/pixiJs_game/).
